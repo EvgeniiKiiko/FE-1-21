@@ -1,0 +1,17 @@
+#table 
+{
+    border: 1px solid black;
+    width: 640px;
+    height: 640px;
+    border-collapse: collapse;
+}
+.light-cell
+{
+    background: burlywood;
+    border: 1px solid black;
+}
+.dark-cell
+{
+    background: rgb(224, 57, 108);
+    border: 1px solid black;
+}
